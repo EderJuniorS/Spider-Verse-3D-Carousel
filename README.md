@@ -11,7 +11,7 @@
   
   <br><br>
 
-  <a href="https://ederjuniors.github.io/Spider-Man-Multiversos/">
+  <a href="https://ederjuniors.github.io/Spider-Verse-3D-Carousel/">
     <img src="https://img.shields.io/badge/🕸️_Acessar_Multiverso-Live_Demo-critical?style=for-the-badge" alt="Ver Demo">
   </a>
 </div>
@@ -71,7 +71,7 @@ A complexidade técnica reside na construção de um carrossel giratório utiliz
 Clone o repositório:
 
 ```bash
-git clone https://github.com/EderJuniorS/Spider-Man-Multiversos.git
+git clone https://github.com/EderJuniorS/Spider-Verse-3D-Carousel.git
 ```
 
 Abra o arquivo index.html no seu navegador.
